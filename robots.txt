@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oproster.github.io/sitemap.html.gz
+Sitemap: https://oproster.github.io/app/sitemap.html.gz
+Sitemap: https://oproster.github.io/assets/sitemap.html.gz
+Sitemap: https://oproster.github.io/css/sitemap.html.gz
+Sitemap: https://oproster.github.io/includes/sitemap.html.gz
+Sitemap: https://oproster.github.io/item/sitemap.html.gz
+Sitemap: https://oproster.github.io/src/sitemap.html.gz
